@@ -1,7 +1,7 @@
 # ai-chatbot-python
 AI Chatbot with OpenAI LLM and GPT-3.5 Turbo Model
 
------------------------------------- Instructions ------------------------------------------------------------------------
+------------------------------------------------------------------------ Instructions ------------------------------------------------------------------------
 Note: This project needs a valid API key from OpenAI, it can be generated from https://platform.openai.com/api-keys
 
 1: Download Python from https://www.python.org/downloads/
